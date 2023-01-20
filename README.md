@@ -23,6 +23,7 @@
 | ---------------- | ---------------------------------------------------- |
 | bootstrap        | CSS Framework                                        |
 | immer            | Helper for working with immutable data               |
+|    note: critical issue need to npm install immer@9.0.18 seano 20230119
 | prop-types       | Declare types for props passed into React components |
 | react            | React library                                        |
 | react-dom        | React library for DOM rendering                      |
