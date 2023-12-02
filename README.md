@@ -70,3 +70,6 @@
 | webpack-bundle-analyzer            | Generate report of what's in the app's production bundle         |
 | webpack-cli                        | Run Webpack via the command line                                 |
 | webpack-dev-server                 | Serve app via Webpack                                            |
+
+###notes
+20231130 meeting with Career Coach - recommended having link to 5-5s and github repo
